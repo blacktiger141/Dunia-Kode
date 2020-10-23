@@ -19,4 +19,4 @@
 * [<img alt="Dunia-Kode's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://api.whatsapp.com/send/?phone=%2B6282125068665&text&app_absent=0)<br />
 * [<img alt="Dunia-Kode's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/duniakode.official)<br />
 
-![https://github.com/Dunia-Kode/Dunia-Kode/blob/main/IMG-20201022-WA0008.jpg)
+![template_s](https://github.com/Dunia-Kode/Dunia-Kode/blob/main/IMG-20201022-WA0008.jpg)
