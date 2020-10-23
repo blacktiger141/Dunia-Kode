@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">
+    🔰HELLO Dunia Kode Lovers🔰
+</h1>
 
-<!--
-**Dunia-Kode/Dunia-Kode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+   ❤️Don't forget to follow my github❤️
+</h4 aling="center">
+ 
+![github stats](https://github-readme-stats.vercel.app/api?username=Dunia-Kode&show_icons=true&theme=dark)
+<a href="https://github.com/Dunia-Kode/Wa"><img title="WA" src="https://github-readme-stats.vercel.app/api/pin/?username=Dunia-Kode&repo=Wa&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Dunia-Kode/Call"><img title="CALL" src="https://github-readme-stats.vercel.app/api/pin/?username=Dunia-Kode&repo=Call&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Dunia-Kode/Spammer"><img title="SPAMMER" src="https://github-readme-stats.vercel.app/api/pin/?username=Dunia-Kode&repo=Spammer&theme=vision-friendly-dark"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
 
-Here are some ideas to get you started:
+### MY SOCIAL MEDIA
+* [<img alt="Dunia-Kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Dunia-Kode)<br />
+* [<img alt="Dunia-Kode's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/s.jani.10297)<br />
+* [<img alt="Yayan-XD's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://api.whatsapp.com/send/?phone=%2B6285603036683&text&app_absent=0)<br />
+* [<img alt="Yayan-XD's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/yayanxd_)<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![template_s](https://user-images.githubusercontent.com/52023076/93980625-b4ff2180-fd33-11ea-873d-9570cbdd30e9.gif)
