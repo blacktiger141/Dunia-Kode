@@ -11,7 +11,7 @@
 <a href="https://github.com/Dunia-Kode/Call"><img title="CALL" src="https://github-readme-stats.vercel.app/api/pin/?username=Dunia-Kode&repo=Call&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Dunia-Kode/Spammer"><img title="SPAMMER" src="https://github-readme-stats.vercel.app/api/pin/?username=Dunia-Kode&repo=Spammer&theme=vision-friendly-dark"></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunia-Kode&layout=compact" alt="Top language">
 
 ### MY SOCIAL MEDIA
 * [<img alt="Dunia-Kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Dunia-Kode)<br />
